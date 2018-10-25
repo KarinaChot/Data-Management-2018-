@@ -20,7 +20,8 @@ https://hubofdata.ru/dataset/gdpworldwide
 - Автор: Чотчаева Карина 
 - email: kkchotchaeva@mail.ru
 
-7.**ИНСТРУМЕНТЫ И ФОРМАТЫ ДАННЫХ** 
+7. **ИНСТРУМЕНТЫ И ФОРМАТЫ ДАННЫХ** 
+
 Статистический анализ и визуализация данных. 
 Инструменты: Python, SPSS, Tableau, Excel
 Формат данных CSV, PDF
