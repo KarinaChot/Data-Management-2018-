@@ -6,8 +6,12 @@
 
 4. **ИСТОЧНИКИ ДАННЫХ**
 - **World Happiness Report. Happiness scored according to economic production, social support, etc.(from 2015 to 2017)** - https://www.kaggle.com/unsdsn/world-happiness  
-- **The Worl Bank Economy. GDP by country (1960-2017)** - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2017&start=1960 
-- **пакеты данных в системе CKAN** - https://hubofdata.ru/dataset/worldhappiness , https://hubofdata.ru/dataset/gdpworldwide
+- **The Worl Bank Economy. GDP by country (1960-2017)** 
+- https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2017&start=1960 
+- **пакеты данных в системе CKAN** 
+- https://hubofdata.ru/dataset/worldhappiness 
+- https://hubofdata.ru/dataset/gdpworldwide
+
 5. **ОГРАНИЧЕНИЕЯ НА МАТЕРИАЛ** 
 Ограничения отсутствуют
 
